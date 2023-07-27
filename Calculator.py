@@ -1,6 +1,3 @@
-from xml.etree.ElementTree import TreeBuilder
-
-
 def main():
     # add a loop to continue calculations
     more_operations = True
